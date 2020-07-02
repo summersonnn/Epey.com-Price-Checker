@@ -1,6 +1,7 @@
 # Epey.com-Price-Checker
 Script that checks prices of desired products and sends e-mail whenever there is a discount.
 
+* pip install -r requirements.txt
 * List the link of the products that you want to follow in **laptop_links** list (Also consider changing the name of the list..)
 * List the name of the products that you want to follow in **laptop_names** list
 * Put your botmail and real mail in **EmailMessage()** object. (**msg**)
