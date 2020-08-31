@@ -1,28 +1,6 @@
 HP ProBook 440 G6 (7DF56EA) Notebook
-5798.99
-HP Pavilion x360 14-dh1005nt (8XH01EA) 2'si 1 Arada
-5849.0
-Asus UM431DA-AM024T Ultrabook
-5489.0
-HP 14-ce3003nt (3H905EA) Notebook
-5899.0
-Acer Swift 3 SF314-58G-53HN Ultrabook (NX.HPKEY.002)
-4898.99
-Huawei MateBook 13 8+512 GB Notebook
-5999.0
-Huawei MateBook D 14 AMD Notebook (53010WPX)
-4944.99
-Lenovo S540 81ND003UTX Notebook
-5999.0
-HP 14-cf2005nt (9CP83EA) Notebook
-5889.0
-HP 340S G7 (10R29EA) Notebook
-5899.0
-HP 14-cf2004nt (9CN08EA) Notebook
-5499.99
-HP 14-cf1018nt (8BW26EA) Notebook
-5523.48
-Dell Inspiron 5490
-5899.99
-Monster Huma H4 V3.2
-6399.98
+6324.6
+HP 15-dw2009nt (3H813EA) Notebook
+4999.0
+Monster Huma H4 V3.1 Notebook
+6799.0
